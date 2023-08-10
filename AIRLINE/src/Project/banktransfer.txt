@@ -1,0 +1,13 @@
+SBI,hare,s,1234
+SBI,ganesh,s,1234
+SBI,viswa,s,1234
+SBI,surya,c,1234
+AXIS,hare,s,1234
+AXIS,ganesh,s,1234
+AXIS,viswa,c,1234
+ICICI,surya,s,1234
+ICICI,hare,c,1234
+ICICI,ganesh,s,1234
+HDFC,viswa,c,1234
+HDFC,surya,s,1234
+HDFC,hare,s,1234
